@@ -1,5 +1,7 @@
 # Make ReCaptcha's "I'm not a robot" accurate
 
+![Screenshot of a test page with Google ReCaptcha on it; "I'm not a robot" has been replaced with "I would like to do unpaid image classification"](screenshot.jpg)
+
 ReCaptcha sucks. It's annoying, arbitrary, and extremely hostile to Tor users. Plus you're doing unpaid image classification labor for Google.
 
 Not much to be done about the first three problems but you can correct the last one - and the "I'm not a robot" text at the same time. The new-and-improved ReCaptcha says "I want to do unpaid image classification".
