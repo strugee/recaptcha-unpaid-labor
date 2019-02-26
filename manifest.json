@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "ReCaptcha \"unpaid image classification\" rewriter",
+    "name": "Make ReCaptcha's \"I'm not a robot\" accurate",
     "version": "1.0",
 
     "description": "Makes ReCaptcha's \"I'm not a robot\" text more accurate",
