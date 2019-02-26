@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "ReCaptcha \"unpaid image classification\" rewriter",
+    "version": "1.0",
+
+    "description": "Makes ReCaptcha's \"I'm not a robot\" text more accurate",
+
+    "icons": {
+	"48": "icons/border-48.png"
+    },
+
+    "content_scripts": [
+	{
+	    "matches": ["*://www.google.com/recaptcha/*"],
+	    "all_frames": true,
+	    "js": ["recaptcha.js"]
+	}
+    ],
+
+    "browser_specific_settings": {
+	"gecko": {
+	    "id": "recaptcha@strugee.net"
+	}
+    }
+}
