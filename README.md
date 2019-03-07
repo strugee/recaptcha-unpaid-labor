@@ -8,6 +8,10 @@ Not much to be done about the first three problems but you can correct the last 
 
 This was [Evan Prodromou's idea](https://twitter.com/evanpro/status/1098987608020008961) unless you like it, in which case the idea to follow through and make an actual extension was totally all mine.
 
+## Installation
+
+The extension is available [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/make-recaptcha-text-accurate/).
+
 ## Icon
 
 The extension icon was stolen from Google's [Material Design icon set](https://material.io/tools/icons/?search=image_search&icon=image_search&style=baseline) because the MDN WebExtension docs said their sample was from there and then I decided that I enjoyed irony.
