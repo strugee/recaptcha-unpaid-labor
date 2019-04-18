@@ -1,0 +1,16 @@
+{
+	"extensionName": {
+		"message": "Make ReCaptcha's \"I'm not a robot\" accurate",
+		"description": "Name of the extension."
+	},
+
+	"extensionDescription": {
+		"message": "Makes ReCaptcha's \"I'm not a robot\" text more accurate",
+		"description": "Description of the extension."
+	},
+
+	"replacementText": {
+		"message": "I want to do unpaid image classification",
+		"description": "Text that \"I'm not a robot\" will be replaced with"
+	}
+}

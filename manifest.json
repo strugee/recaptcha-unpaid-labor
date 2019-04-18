@@ -1,9 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "Make ReCaptcha's \"I'm not a robot\" accurate",
+    "name": "__MSG_extensionName__",
     "version": "1.0",
 
-    "description": "Makes ReCaptcha's \"I'm not a robot\" text more accurate",
+    "description": "__MSG_extensionDescription__",
+
+    "default_locale": "en",
 
     "icons": {
 	"48": "icons/border-48.png"
