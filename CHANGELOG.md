@@ -8,7 +8,7 @@
 
 * 128x128 icons weren't referenced in the extension manifest
 
-## 1.1.0 - 2019-04-18
+## 1.1.0 - 2019-04-18 [UNPUBLISHED]
 
 ### Added
 
