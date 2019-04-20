@@ -2,7 +2,9 @@
 
 "Make ReCaptcha Text Accurate" adheres to [Semantic Versioning](http://semver.org/), roughly speaking. Who knows what semver-major means here though.
 
-## 1.1.1 - 2019-04-20
+## 1.1.1 - 2019-04-20 [YANKED]
+
+This version was yanked due to incorrect versioning information in the extension manifest, because that was ultra confusing. This bug was fixed in 1.1.2.
 
 ### Fixed
 
