@@ -2,6 +2,12 @@
 
 "Make ReCaptcha Text Accurate" adheres to [Semantic Versioning](http://semver.org/), roughly speaking. Who knows what semver-major means here though.
 
+## 1.1.3 - 2019-04-20
+
+### Fixed
+
+* Fixed a ReferenceError in Chromium/Chrome
+
 ## 1.1.2 - 2019-04-20
 
 ### Fixed
