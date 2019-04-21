@@ -10,7 +10,7 @@ This was [Evan Prodromou's idea](https://twitter.com/evanpro/status/109898760802
 
 ## Installation
 
-The extension is available [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/make-recaptcha-text-accurate/).
+The extension is available [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/make-recaptcha-text-accurate/) and [for Chrome](https://chrome.google.com/webstore/detail/make-recaptchas-im-not-a/olbjmgkbokabjfaelgogjjllpnfjgdoe).
 
 ## Icon
 
