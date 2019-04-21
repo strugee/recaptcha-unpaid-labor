@@ -12,6 +12,8 @@ This was [Evan Prodromou's idea](https://twitter.com/evanpro/status/109898760802
 
 The extension is available [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/make-recaptcha-text-accurate/) and [for Chrome](https://chrome.google.com/webstore/detail/make-recaptchas-im-not-a/olbjmgkbokabjfaelgogjjllpnfjgdoe).
 
+[![The Firefox logo followed by the text "Get the Add-On"](amo-badge.png)](https://addons.mozilla.org/en-US/firefox/addon/make-recaptcha-text-accurate/) [![The Chrome Web Store logo next to the text "Available in the Chrome Web Store"](chrome-badge.png)](https://chrome.google.com/webstore/detail/make-recaptchas-im-not-a/olbjmgkbokabjfaelgogjjllpnfjgdoe)
+
 ## Icon
 
 The extension icon was stolen from Google's [Material Design icon set](https://material.io/tools/icons/?search=image_search&icon=image_search&style=baseline) because the MDN WebExtension docs said their sample was from there and then I decided that I enjoyed irony.
