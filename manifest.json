@@ -14,7 +14,7 @@
 
     "content_scripts": [
 	{
-	    "matches": ["*://www.google.com/recaptcha/*"],
+	    "matches": ["*://www.google.com/recaptcha/*", "*://google.com/recaptcha/*"],
 	    "all_frames": true,
 	    "js": ["recaptcha.js"]
 	}

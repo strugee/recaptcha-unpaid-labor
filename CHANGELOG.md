@@ -2,6 +2,16 @@
 
 "Make ReCaptcha Text Accurate" adheres to [Semantic Versioning](http://semver.org/), roughly speaking. Who knows what semver-major means here though.
 
+## 1.1.4 - future
+
+### Added
+
+* The extension has been tested with Firefox for Android
+
+### Fixed
+
+* Fixed newer reCAPTCHA embed codes not getting their text replaced
+
 ## 1.1.3 - 2019-04-20
 
 ### Fixed
