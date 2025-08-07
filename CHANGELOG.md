@@ -7,6 +7,7 @@
 ### Fixed
 
 * Moved from Manifest v2 to Manifest v3, allowing the extension to be published on the Chrome Web Store again
+* The extension is now actually marked as compatible with Firefox for Android, allowing installs
 
 ## 1.1.4 - 2023-08-19
 

@@ -23,6 +23,7 @@
     "browser_specific_settings": {
 	"gecko": {
 	    "id": "recaptcha@strugee.net"
-	}
+	},
+	"gecko_android": {}
     }
 }
