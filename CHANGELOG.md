@@ -2,7 +2,7 @@
 
 "Make ReCaptcha Text Accurate" adheres to [Semantic Versioning](http://semver.org/), roughly speaking. Who knows what semver-major means here though.
 
-## 1.2.0 - future
+## 1.2.0 - 2025-08-07
 
 ### Fixed
 
