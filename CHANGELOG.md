@@ -2,6 +2,12 @@
 
 "Make ReCaptcha Text Accurate" adheres to [Semantic Versioning](http://semver.org/), roughly speaking. Who knows what semver-major means here though.
 
+## 1.2.0 - future
+
+### Fixed
+
+* Moved from Manifest v2 to Manifest v3, allowing the extension to be published on the Chrome Web Store again
+
 ## 1.1.4 - 2023-08-19
 
 ### Added
